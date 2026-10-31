@@ -1,0 +1,11 @@
+# Thư mục cấu hình IDE (IntelliJ / Eclipse)
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+
+# Thư mục biên dịch / rác
+out/
+target/
+bin/
